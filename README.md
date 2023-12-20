@@ -49,7 +49,7 @@ Welcome to the School Management System, a web application built using Django fo
    ```bash
     Copy code
     .\venv\Scripts\activate
-    On macOS/Linux:
+4. **On macOS/Linux:**
     bash
     Copy code
     source venv/bin/activate
