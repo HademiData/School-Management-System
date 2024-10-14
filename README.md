@@ -83,10 +83,8 @@ Welcome to the School Management System, a web application built using Django fo
     Contributing
     If you'd like to contribute to the project, please follow our Contribution Guidelines.
 
-  License
-  This project is licensed under the MIT License.
   
   Contact
-  For any inquiries or issues, please contact Your Name.
+  For any inquiries or issues, please contact afolabiwale262@gmail.com.
   
   Happy coding!
