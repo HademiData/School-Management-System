@@ -19,7 +19,7 @@ Welcome to the School Management System, a web application built using Django fo
   - Assign subjects and classes to teachers.
 
 - **Class and Subject Management:**
-  - Create and manage classes and subjects.
+  - Create and manage classes and subjects.   
   - Assign teachers and students to classes.
 
 - **Attendance Tracking:**
