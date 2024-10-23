@@ -85,6 +85,6 @@ Welcome to the School Management System, a web application built using Django fo
 
   
   Contact
-  For any inquiries or issues, please contact afolabiwale262@gmail.com.
+  For any inquiries or issues, don't hesitate to get in touch with afolabiwale262@gmail.com.
   
   Happy coding!
