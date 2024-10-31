@@ -1,3 +1,4 @@
+
 # School Management System (Django)
 
 Welcome to the School Management System, a web application built using Django for managing various aspects of a school's operations.
