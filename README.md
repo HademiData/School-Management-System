@@ -1,8 +1,6 @@
 ## School Management System (Django)
 
 Welcome to the School Management System, a web application built using Django for managing various aspects of a school's operations.
-
-
 ## Features
 
 - **User Authentication:**
@@ -55,7 +53,7 @@ Welcome to the School Management System, a web application built using Django fo
     Copy code
     source venv/bin/activate
     Install Dependencies:
-    
+   
   ```bash
     Copy code
     pip install -r requirements.txt
