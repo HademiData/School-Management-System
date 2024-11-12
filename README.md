@@ -8,7 +8,6 @@ Welcome to the School Management System, a web application built using Django fo
 
 - **Dashboard:**
   - Overview of key statistics and activities.
-
 - **Student Management:**
   - Add, edit, and delete student profiles.
   - View student details, attendance, and grades.
