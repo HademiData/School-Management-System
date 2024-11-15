@@ -80,8 +80,6 @@ Welcome to the School Management System, a web application built using Django fo
     Explore the dashboard and navigate through the various modules.
     Contributing
     If you'd like to contribute to the project, please follow our Contribution Guidelines.
-
-  
   Contact
   For any inquiries or issues, don't hesitate to get in touch with afolabiwale262@gmail.com.
   
